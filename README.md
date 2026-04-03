@@ -17,7 +17,7 @@
 ###  Tech Stack
  **Languages:** Python, SQL, HTML, CSS  
  **Tools & Frameworks:** Git, GitHub, Jupyter Notebook, VS Code  
- **Currently Learning:** Data Handling, AI Tools, Machine Learning Fundamentals  
+ **Currently Learning:** Data analisys, AI Tools, Machine Learning Fundamentals  
 
 ---
 
