@@ -2,7 +2,7 @@
 
  **Computer Engineer** & **AI & Machine Learning Developer Student** at [IT-Högskolan](https://www.iths.se/), Stockholm.  
  Passionate about **Python**, **Data Handling**, and **Automation**.  
- Currently developing hands-on projects in **AI**, **Machine Learning**, and **OOP programming**.
+ Currently developing hands-on projects in **Data Analysis**, **AI**, **Machine Learning**, and **OOP programming**.
 
 ---
 
