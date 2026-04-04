@@ -21,7 +21,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
  [LinkedIn](https://www.linkedin.com/in/juan-andrade-/)  
  **Email:** Juandra1232@gmail.com  
 
