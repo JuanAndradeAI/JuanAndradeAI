@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Juan Andrade  
 
- **AI & Machine Learning Student building practical data-driven solutions** at [IT-Högskolan](https://www.iths.se/), Stockholm.  
+ **AI & Machine Learning Student building practical data-driven solutions**
  Passionate about **Python**, **Data Handling**, and **Automation**.  
  Currently developing hands-on projects in **Data Analysis**, **AI**, **Machine Learning**, and **OOP programming**.
 
