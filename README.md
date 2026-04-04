@@ -1,21 +1,21 @@
 # 👋 Hi there, I'm Juan Andrade  
 
- **AI & Machine Learning Developer Student at IT-Högskolan, Stockholm**  
- Currently developing hands-on projects in **Data Analysis**, **AI**, **Machine Learning**, and **OOP programming**.
+ **Computer Engineer | AI & Machine Learning Student @ IT-Högskolan**  
+Currently focused on turning machine learning models into usable applications and understanding how they are built and used in real-world environments..
 
 ---
 
 ### About Me
-• Strong interest in building data-driven solutions and intelligent systems  
+• Strong foundation in computer engineering and data-driven systems  
 • Experience working with real datasets, from analysis to model development  
-• Focused on turning models into usable applications  
-• Open to internship (LIA) opportunities in Sweden   
+• Interested in building practical and reliable solutions  
+• Open to internship (LIA) opportunities in Sweden, Stockholm    
 
 ---
 
 ###  Tech Stack
 - Languages: Python, SQL  
-- Tools & Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter  
+- Tools & Libraries: Pandas, NumPy, scikit-learn, Matplotlib, Jupyter  
 - Tools: Git, GitHub, VS Code    
 
 ---
