@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Juan Andrade  
 
  **Computer Engineer | AI & Machine Learning Student at IT-Högskolan**  
- 
 Currently focused on turning machine learning models into usable applications and understanding how they work in real-world environments.
 
 ---
