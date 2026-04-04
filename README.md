@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Juan Andrade  
 
- **AI & Machine Learning Student building practical data-driven solutions**
- Passionate about **Python**, **Data Handling**, and **Automation**.  
+ **AI & Machine Learning Developer Student at IT-Högskolan, Stockholm**  
  Currently developing hands-on projects in **Data Analysis**, **AI**, **Machine Learning**, and **OOP programming**.
 
 ---
