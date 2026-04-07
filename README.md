@@ -5,7 +5,7 @@ Currently focused on turning machine learning models into usable applications an
 
 ---
 
-### About Me
+### About me
 • Strong foundation in computer engineering and data-driven systems  
 • Experience working with real datasets, from analysis to model development  
 • Interested in building practical and reliable solutions  
@@ -13,14 +13,14 @@ Currently focused on turning machine learning models into usable applications an
 
 ---
 
-###  Tech Stack
+###  Tech stack
 - Languages: Python, SQL  
 - Tools & Libraries: Pandas, NumPy, scikit-learn, Matplotlib, Jupyter  
 - Tools: Git, GitHub, VS Code    
 
 ---
 
-### Connect with Me
+### Connect with me
  [LinkedIn](https://www.linkedin.com/in/juan-andrade-/)  
  **Email:** Juandra1232@gmail.com  
 
