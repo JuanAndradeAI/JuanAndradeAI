@@ -48,7 +48,7 @@ Computer Engineer with a background in software, data, and technology, currently
 
 ---
 
-### 🤝 Connect with me
+### Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/juan-andrade-/)
 
