@@ -1,26 +1,55 @@
-# 👋 Hi there, I'm Juan Andrade  
+# 👋 Hi there, I'm Juan Andrade
 
- **Computer Engineer | AI & Machine Learning Student at IT-Högskolan**  
-Currently focused on turning machine learning models into usable applications and understanding how they work in real-world environments.
+**Computer Engineer | AI & Machine Learning Student at IT-Högskolan**
+
+Computer Engineer with a background in software, data, and technology, currently specializing in AI & Machine Learning at IT-Högskolan in Sweden.
 
 ---
 
 ### About me
-• Strong foundation in computer engineering and data-driven systems  
-• Experience working with real datasets, from analysis to model development  
-• Interested in building practical and reliable solutions  
-• Open to internship (LIA) opportunities in Sweden, Stockholm    
+
+- 🎓 Computer Engineer
+- 🤖 Currently studying Artificial Intelligence and Machine Learning at IT-Högskolan
+- 📊 Experience working with data, databases, machine learning, and software development
+- 🧠 Interested in applying AI & machine learning to practical, real-world problems
+- 🇸🇪 Based in Sweden
+- 💼 Open to internship (LIA) opportunities in Stockholm
 
 ---
 
-###  Tech stack
-- Languages: Python, SQL  
-- Tools & Libraries: Pandas, NumPy, scikit-learn, Matplotlib, Jupyter  
-- Tools: Git, GitHub, VS Code    
+### 🛠️ Technologies & Tools
+
+**Programming & Development**
+- Python
+- SQL
+- TypeScript
+- Bash
+- React
+
+**Data & Machine Learning**
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- Jupyter
+- Hugging Face
+
+**Databases & Backend**
+- PostgreSQL
+- Neon
+- Supabase
+
+**DevOps & Development Tools**
+- Git
+- GitHub
+- GitHub Actions (CI/CD)
+- Docker
+- VS Code
 
 ---
 
-### Connect with me
- [LinkedIn](https://www.linkedin.com/in/juan-andrade-/)  
- **Email:** Juandra1232@gmail.com  
+### 🤝 Connect with me
 
+[LinkedIn](https://www.linkedin.com/in/juan-andrade-/)
+
+**Email:** Juandra1232@gmail.com
