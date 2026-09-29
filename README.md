@@ -13,7 +13,7 @@ Computer Engineer with a background in software, data, and technology, currently
 - 📊 Experience working with data, databases, machine learning, and software development
 - 🧠 Interested in applying AI & machine learning to practical, real-world problems
 - 🇸🇪 Based in Sweden
-- 💼 Open to internship (LIA) opportunities in Stockholm
+- 💼 Open to work opportunities in Stockholm
 
 ---
 
